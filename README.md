@@ -6,6 +6,14 @@
 - **💻 [GitHub Repository](https://github.com/Rashad1019/SCHD_Analysis)** - Source code and documentation  
 - **📄 [Summary Report PDF](https://github.com/Rashad1019/SCHD_Analysis/blob/main/summary_report_schd.pdf)** - Executive summary and key findings
 
+## 📬 Contact
+
+For inquiries or collaboration:
+
+- **Email**: [Rashad19@outlook.com](mailto:Rashad19@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/rashad-ferguson11](https://www.linkedin.com/in/rashad-ferguson11/)
+
+
 ## Executive Summary
 
 This repository presents a comprehensive quantitative analysis of the Schwab U.S. Dividend Equity ETF (SCHD), employing advanced financial modeling techniques to evaluate performance metrics, risk characteristics, and growth trajectories. Through rigorous statistical analysis and Monte Carlo simulations, this study provides institutional-grade insights into SCHD's investment profile, with particular emphasis on its utility within diversified, income-generating portfolios.
